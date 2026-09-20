@@ -18,6 +18,7 @@
 
 ### 🛠️ Bahasa Pemrograman & Alat (Tech Stack)
 
+<!-- Kalo nambah skill baru di masa depan, tinggal tambah link ikonnya di sini -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" title="C++" />
   &nbsp;&nbsp;
@@ -37,15 +38,14 @@
 ### 📊 Statistik Aktivitas GitHub
 
 <div align="center">
+  <!-- Kartu Streak Harian -->
   <img src="https://streak-stats.demolab.com/?user=MenmaFX&theme=tokyonight&hide_border=true" alt="Streak Coding" width="95%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MenmaFX&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenmaFX&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Populer" width="45%" />
 </div>
 
 ---
 
 <div align="center">
+  <!-- Sosial Media -->
   <a href="https://youtube.com/@djcandufvnky?si=eZIwc08j6fo2a5_q" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
