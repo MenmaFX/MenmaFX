@@ -51,7 +51,7 @@
 
 <div align="center">
   <!-- Sosial Media -->
-  <a href="https://www.youtube.com/c/djcandufvnky" target="_blank">
+  <a href="https://youtube.com/@djcandufvnky?si=eZIwc08j6fo2a5_q" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </div>
